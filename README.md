@@ -24,10 +24,10 @@
  	<a href="https://twitter.com/ProfPauloJesus" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white"target="_blank"></a>
   <a href = "mailto:prof.paulojesus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com//in/paulo-araujo-b6b063192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/Paulojesus85/Paulojesus85/blob/output/github-contribution-grid-snake.svg)
 </div>
-<div>
-![Snake animation](https://github.com/Paulojesus85/Paulojesus85/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
 <!---
 Paulojesus85/Paulojesus85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
