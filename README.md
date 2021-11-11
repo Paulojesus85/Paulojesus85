@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulojesus85
-- 👀 I’m interested in HTML, CSS, JavaScript e MySQL
-- 🌱 I’m currently learning Git e PHP
+- 👀 I’m interested in HTML, CSS, JavaScript, MySQL and PHP.
+- 🌱 I’m currently learning Git, PHP and Object-Oriented Programming.
 
 <div align="center">
   <a href="https://github.com/paulojesus85">
